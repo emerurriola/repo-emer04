@@ -1,8 +1,9 @@
 # Análisis: “Vista de las calles de Nueva York”
-#### Por: Emerson Urriola
+#### Por: Emerson Urriola - The pudding https://pudding.cool/2025/07/street-view/
+
 ## ¿Y si pudieras buscar cada palabra visible en las calles de la ciudad de Nueva York?
-### descripción de la historia
+### Descripción de la historia
 Esta webstory trata de un recorrido virtual sobre las calles de la ciudad de Nueva York a través de un elemento súper interesantes: palabras. Estas pueden estar en letreros, grafitis, señaléticas, carteles, etc. Todo esto ocurrió gracias a las imágenes que Street View —Google— tiene disponible a través de internet y el ingenio de un artista multimedia, Yufeng Zhao que utilizó el archivo disponible en la web para crear una página web con las palabras agrupadas, un ejercicio que resultó muy interesante, ya que hay palabras como “ACAB”, que se repiten miles de veces en toda la ciudad y que la página fue capaz de identificar. Con los datos de la página web los autores del reportaje enumeraron las palabras que más comunes y que relación tienen con la ciudad. Ejemplo: yodock, marca de barreras de plástico sobre calles en donde se encuentra una construcción, sobre todos estos datos sus creadores van jugando. 
-### Explica por qué te pareció interesante y qué aspectos destacarías de su estructura narrativa.
+### Explica por qué te pareció interesante y qué aspectos destacarías de su estructura narrativa
 Me pareció interesante el descubrimiento de la página web de este artista visual y como con esto quienes crearon la webstory fueron jugando con los descubrimientos que la plataforma otorga. Es una actividad muy entretenida y ociosa recorrer calles a través de Street View, también hay juego para hacerlo como: geoguessr. Es novedoso para mí ver este tipo de contenido porque no suelo consumirlo entonces la forma de darle interés a algo cotidiano como lo son las palabras que se esconden en la ciudad es super interesante. Lo que más destaco es la creación de esta lista con las palabras más frecuentes y que significan para los ciudadanos de NY, que contexto tienen en la ciudad. Por ejemplo había una palabra que hacia alusión a la comunidad musulmana asentadas en Estados Unidos, se trata del halal, una comida típica de ellos. 
-### Evaluación de la efectividad para transmitir información.
+### Evaluación de la efectividad para transmitir información
